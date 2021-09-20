@@ -68,10 +68,6 @@
   options:
     url: https://ss.dswang.ga:8443/clash/proxies
 
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://sspool.herokuapp.com/clash/proxies
 
 # clash格式订阅链接
 - type: clash
